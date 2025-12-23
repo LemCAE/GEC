@@ -1,0 +1,10 @@
+{
+  "customOrder": {
+    "/": [
+      "欢迎.md"
+    ]
+  },
+  "sortOrder": "customOrder",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
